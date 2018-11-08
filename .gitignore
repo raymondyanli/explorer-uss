@@ -14,3 +14,6 @@ WebContent/app.min.js
 .classpath
 .factorypath
 *.war
+
+# Sonar ignores
+.scannerwork/
